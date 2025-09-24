@@ -1,14 +1,14 @@
 # **Day 1**
-### **1. Implement Stack using Array**
+### **1. Implement Stack using Array and ArrayList**
 ### **2. Reverse a String using Stack**
 ### **3. Valid Parenthesis**
 ### **4. Decode String  ( Leet Code #394 )**
-### **5. Next greater element**
+### **5. Next greater element ( Leet Code #496 )**
 ### **6. Next Smaller Element**
 ### **7. Previous Greater Element**
 ### **8. Previous smaller Element**
-### **9. Daily Temperature ( Lettcode #739 )**
-### **10.  Largest Rectangle Histogram**
+### **9. Largest Rectangle Histogram ( Leetcode #84 )**
+### **10.  Daily Temperature ( Leetcode #739 )**
 ---
 
 # My Notes
