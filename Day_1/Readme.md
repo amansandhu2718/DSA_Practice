@@ -1,14 +1,24 @@
 # **Day 1**
-### **1. Implement Stack using Array and ArrayList [ https://github.com/amansandhu2718/DSA_Practice/blob/main/Day_1/One.java ]**
+### **1. Implement Stack using Array and ArrayList** 
+##### https://github.com/amansandhu2718/DSA_Practice/blob/main/Day_1/One.java
 ### **2. Reverse a String using Stack**
+##### https://github.com/amansandhu2718/DSA_Practice/blob/main/Day_1/Two.java
 ### **3. Valid Parenthesis**
+##### https://github.com/amansandhu2718/DSA_Practice/blob/main/Day_1/Three.java
 ### **4. Decode String  ( Leet Code #394 )**
+##### https://github.com/amansandhu2718/DSA_Practice/blob/main/Day_1/Four.java
 ### **5. Next greater element ( Leet Code #496 )**
+##### https://github.com/amansandhu2718/DSA_Practice/blob/main/Day_1/Five.java
 ### **6. Next Smaller Element**
+##### https://github.com/amansandhu2718/DSA_Practice/blob/main/Day_1/Six.java
 ### **7. Previous Greater Element**
+##### https://github.com/amansandhu2718/DSA_Practice/blob/main/Day_1/Seven.java
 ### **8. Previous smaller Element**
+##### https://github.com/amansandhu2718/DSA_Practice/blob/main/Day_1/Eight.java
 ### **9. Largest Rectangle Histogram ( Leetcode #84 )**
+##### https://github.com/amansandhu2718/DSA_Practice/blob/main/Day_1/Nine.java
 ### **10.  Daily Temperature ( Leetcode #739 )**
+##### https://github.com/amansandhu2718/DSA_Practice/blob/main/Day_1/Ten.java
 ---
 
 # My Notes
