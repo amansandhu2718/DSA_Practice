@@ -21,7 +21,7 @@
 ##### https://github.com/amansandhu2718/DSA_Practice/blob/main/Day_1/Ten.java
 ---
 
-# My Notes
+# Notes for quick revision
 ## Types of problems in **stack **data structure
 1. **Basics & mental model** — push/pop/peek, stack implementation, dry runs.
 2. **Balanced / matching problems** — parentheses, decode string, path simplification.
