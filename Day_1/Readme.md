@@ -1,4 +1,5 @@
-# **Day 1**
+# **Day 1** 
+## **Stack [easy]**
 ### **1. Implement Stack using Array and ArrayList** 
 ##### https://github.com/amansandhu2718/DSA_Practice/blob/main/Day_1/One.java
 ### **2. Reverse a String using Stack**
